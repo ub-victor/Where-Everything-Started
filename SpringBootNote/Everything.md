@@ -52,4 +52,3 @@ Def: is an open-source, Java-based framework used to build standalone, productio
 **"Spring Boot" can create and run an application with just an annotation**
 
 **"True", Spring Boot allows you to create any application as a single runnable JAR**
-
