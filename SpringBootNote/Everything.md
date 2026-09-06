@@ -59,8 +59,8 @@ Def: is an open-source, Java-based framework used to build standalone, productio
     Is it a popular framework for building Java application, it has a lot of module to handle a specific task.
 
     This modules are broadly categorized into a few different layers 
-        - At the **Core** we have a modules for handling dependency injecting and managing objects
-        - In the Web layer 
+        - At the **Core layer** we have a modules for handling dependency injecting and managing objects
+        - In the **Web layer** 
 
 - **What does it offer?**
 - **How does spring boot help?**
