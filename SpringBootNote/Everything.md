@@ -53,4 +53,4 @@ Def: is an open-source, Java-based framework used to build standalone, productio
 
 **"True", Spring Boot allows you to create any application as a single runnable JAR**
 
-##
+## Spring Boot Tutorial for Beginners [2025] : `https://www.youtube.com/watch?v=gJrjgg1KVL4`
