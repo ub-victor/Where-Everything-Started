@@ -56,6 +56,6 @@ Def: is an open-source, Java-based framework used to build standalone, productio
 ## Spring Boot Tutorial for Beginners [2025] : `https://www.youtube.com/watch?v=gJrjgg1KVL4`
 
 - **What is Spring Framework:**
-    Is it a popular framework for building Java application
+    Is it a popular framework for building Java application, it has a lot of module to help builting apps
 - **What does it offer?**
 - **How does spring boot help?**
