@@ -58,7 +58,8 @@ Def: is an open-source, Java-based framework used to build standalone, productio
 - **What is Spring Framework:**
     Is it a popular framework for building Java application, it has a lot of module to handle a specific task.
 
-    This modules are broadly categorized into 
+    This modules are broadly categorized into a few different layers 
+        
 
 - **What does it offer?**
 - **How does spring boot help?**
