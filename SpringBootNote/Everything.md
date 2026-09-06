@@ -62,7 +62,7 @@ Def: is an open-source, Java-based framework used to build standalone, productio
         - At the **Core layer** we have a modules for handling dependency injecting and managing objects
         - In the **Web layer** it has modules for building application  with these modules we can build web requests, process data and return responses weither it is a HTML for web page or JSON for API
         - In **Data layer** we have modules for working with Databases weither you are using SQL, No SQL, in memory data Databases
-        - AOP: is for adding cross cutting features like logging or security
+        - AOP: is for adding cross cutting features like logging or security without cluttering the main code 
 
 - **What does it offer?**
 - **How does spring boot help?**
