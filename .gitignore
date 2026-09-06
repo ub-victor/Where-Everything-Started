@@ -1,0 +1,102 @@
+# Java compiled files
+
+*.class
+*.log
+
+# Java package files
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Maven
+
+target/
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Spring Boot
+
+spring-boot-devtools.properties
+
+# IDE - IntelliJ IDEA
+
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# IDE - Eclipse / STS
+
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# VS Code
+
+.vscode/
+
+# NetBeans
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/.nb-gradle/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+
+.env
+.env.*
+application-local.properties
+application-local.yml
+application-dev.properties
+application-dev.yml
+
+# Logs
+
+logs/
+*.log
+
+# Temporary files
+
+*.tmp
+*.swp
+*.swo
+
+# Test reports
+
+surefire-reports/
+failsafe-reports/
+
+# H2 database files
+
+*.db
+*.mv.db
+*.trace.db
+
+# Database / local development
+
+data/
+database/
+
+# Generated files
+
+generated/
+generated-sources/
+generated-test-sources/
