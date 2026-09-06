@@ -60,7 +60,7 @@ Def: is an open-source, Java-based framework used to build standalone, productio
 
     This modules are broadly categorized into a few different layers 
         - At the **Core layer** we have a modules for handling dependency injecting and managing objects
-        - In the **Web layer** it has modules for building application  with these modules we can build web requests, process data and
+        - In the **Web layer** it has modules for building application  with these modules we can build web requests, process data and return responses
 
 - **What does it offer?**
 - **How does spring boot help?**
