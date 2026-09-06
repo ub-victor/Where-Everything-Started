@@ -64,6 +64,8 @@ Def: is an open-source, Java-based framework used to build standalone, productio
         - In **Data layer** we have modules for working with Databases weither you are using SQL, No SQL, in memory data Databases
         - AOP(Aspect Oriented Programming): is for adding cross cutting features like logging or security without cluttering the main code 
         - In the **Test layer:** it deals with testing Spring components
+        When building a web app
+            you need to set up the web server, configure routing, Manage dependencies manually
 
 - **What does it offer?**
 - **How does spring boot help?**
