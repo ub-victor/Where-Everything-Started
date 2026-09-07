@@ -72,3 +72,5 @@ Def: is an open-source, Java-based framework used to build standalone, productio
 Build tools for sprint boot : Maven and  Gradle
 
 ## Creating a spring boot Project
+One way
+    Google  https://start.spring.io/ then the project choose **Maven**
