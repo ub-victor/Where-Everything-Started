@@ -77,3 +77,4 @@ One way
     ![Meta data](image.png)
 
 Project Structure
+    1. `.idea` it contains bansh of configurations
