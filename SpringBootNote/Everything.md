@@ -77,5 +77,6 @@ One way
     ![Meta data](image.png)
 
 Project Structure
-    1. `.idea` it contains bunch of configurations files used by the editor
+
+    1. .idea it contains bunch of configurations files used by the editor
     2. 
