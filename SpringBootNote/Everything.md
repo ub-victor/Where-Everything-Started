@@ -83,4 +83,6 @@ Project Structure
         The mvnw is for Mac and Linux And mvnw.cmd for windows and both files are shell scripts,
         they contain code that will automatically download the version specified in the maven-wrapper.proprerties
     3. pom.xml(Project Object model): This is the heart of the maven project, the files contain someconfiguration about the project and its dependemvies
-    
+
+In Spring boot application we have multiple libraries : like tomcat, web, webmvc, jackson, logging
+But insead of installing them one by one **Spring boot** 
