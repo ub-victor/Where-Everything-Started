@@ -86,4 +86,3 @@ Project Structure
 
 In Spring boot application we have multiple libraries : like tomcat, web, webmvc, jackson, logging
 But insead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together
-
