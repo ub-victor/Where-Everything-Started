@@ -61,8 +61,8 @@ Def: is an open-source, Java-based framework used to build standalone, productio
     This modules are broadly categorized into a few different layers 
         - At the **Core layer** we have a modules for handling dependency injecting and managing objects
         - In the **Web layer** it has modules for building application  with these modules we can build web requests, process data and return responses weither it is a HTML for web page or JSON for API
-        - In **Data layer** we have modules for working with Databases weither you are using SQL, No SQL, in memory data Databases
-        - AOP(Aspect Oriented Programming): is for adding cross cutting features like logging or security without cluttering the main code 
+        - In **Data layer** we have modules for working with Databases either you are using SQL, No SQL, in memory data Databases
+        - AOP(Aspect Oriented Programming): is for adding cross-cutting features like logging or security without cluttering the main code 
         - In the **Test layer:** it deals with testing Spring components
         When building a web app
             you need to set up the web server, configure routing, Manage dependencies manually
