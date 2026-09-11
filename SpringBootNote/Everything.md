@@ -84,6 +84,6 @@ Project Structure
         they contain code that will automatically download the version specified in the maven-wrapper.proprerties
     3. pom.xml(Project Object model): This is the heart of the maven project, the files contain someconfiguration about the project and its dependemvies
 
-In Spring boot application we have multiple libraries : like tomcat, web, webmvc, jackson, logging
+In Spring boot application we have multiple libraries : like tomcat, web, webm, Jackson, logging
 But instead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together
 
