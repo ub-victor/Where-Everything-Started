@@ -87,3 +87,5 @@ Project Structure
 In Spring boot application we have multiple libraries : like tomcat, web, webm, Jackson, logging
 But instead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together
 
+When installing dependencies in IntelliJ we do not need anytime
+
