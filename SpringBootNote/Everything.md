@@ -88,5 +88,5 @@ In Spring boot application we have multiple libraries : like tomcat, web, webm, 
 But instead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together
 
 When installing dependencies in IntelliJ we do not need anytime to go to the spring boot web to get the dependency.
-you can go in your pom.xml the put the cursor when you want to add the dependecy  t
+you can go in your pom.xml the put the cursor when you want to add the dependency then 
 
