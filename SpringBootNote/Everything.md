@@ -85,5 +85,5 @@ Project Structure
     3. pom.xml(Project Object model): This is the heart of the maven project, the files contain someconfiguration about the project and its dependemvies
 
 In Spring boot application we have multiple libraries : like tomcat, web, webmvc, jackson, logging
-But insead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together
+But instead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together
 
