@@ -85,7 +85,7 @@ Project Structure
     3. pom.xml(Project Object model): This is the heart of the maven project, the files contain someconfiguration about the project and its dependemvies
 
 In Spring boot application we have multiple libraries : like tomcat, web, webm, Jackson, logging
-But instead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together
+But instead of installing them one by one **Spring boot** offers **STARTED DEPENDENCY**  Which is a key curated collection of libraries and Frameworks that are commonly used together 
 
 When installing dependencies in IntelliJ we do not need anytime to go to the spring boot web to get the dependency.
 you can go in your `pom.xml` the put the cursor when you want to add the dependency then `ctrl+n` then type the dependency you want to add
