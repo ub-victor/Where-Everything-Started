@@ -95,3 +95,15 @@ The resource folder takes no java code
 **What is Annotation in Spring boot!**
 
     Spring boot annotation is like as an instruction/tag that tells spring what a piece of java code is supposed to do.
+
+    For example here:
+    
+    ```
+    @Controller
+    public class HomeController {
+        
+        }
+    ```
+
+    it mean: **"Hey Spring, this class is a web controller. Manage it and use it to handle web requests."**
+    
