@@ -90,3 +90,5 @@ But instead of installing them one by one **Spring boot** offers **STARTED DEPEN
 When installing dependencies in IntelliJ we do not need anytime to go to the spring boot web to get the dependency.
 you can go in your `pom.xml` the put the cursor when you want to add the dependency then `alt+inserr` then  `dependency` the search a dependency you  want to add
 
+The resource folder takes no java code
+
