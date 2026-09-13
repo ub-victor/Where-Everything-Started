@@ -94,4 +94,4 @@ The resource folder takes no java code
 
 **What is Annotation in Spring boot!**
 
-    Spring boot annotation is like 
+    Spring boot annotation is like as an instruction
