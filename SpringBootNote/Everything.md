@@ -92,3 +92,5 @@ you can go in your `pom.xml` the put the cursor when you want to add the depende
 
 The resource folder takes no java code
 
+**What is Annotation in Spring boot!**
+
