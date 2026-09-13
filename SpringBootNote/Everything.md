@@ -104,3 +104,18 @@ For example here:
         }
 
 it mean: **"Hey Spring, this class is a web controller. Manage it and use it to handle web requests."**
+
+**Some common Spring Boot annotations**
+
+| Annotation | What it tells Spring |
+| --- | --- |
+| @SpringBootApplication | This is the main Spring Boot application |
+| @Controller | This class handles web pages/requests |
+| @RestController | This class handles REST/API requests |
+| @RequestMapping | Maps a URL to a class or method |
+| @GetMapping | Handles HTTP GET requests |
+| @PostMapping | Handles HTTP POST requests |
+| @Service | This class contains business logic |
+| @Repository | This class handles database operations |
+| @Autowired | Ask Spring to provide a dependency |
+| @Entity | This class represents a database table |
