@@ -98,12 +98,12 @@ The resource folder takes no java code
 
     For example here:
     
-    ```
-    @Controller
-    public class HomeController {
-        
-        }
-    ```
+        ```
+        @Controller
+        public class HomeController {
+            
+            }
+        ```
 
     it mean: **"Hey Spring, this class is a web controller. Manage it and use it to handle web requests."**
     
