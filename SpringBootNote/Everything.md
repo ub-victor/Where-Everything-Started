@@ -124,4 +124,4 @@ it mean: **"Hey Spring, this class is a web controller. Manage it and use it to 
 The `application.properties` file in Spring Boot is the central configuration file used to externalize application settings. Instead of hardcoding values like database URLs, port numbers, or credentials inside your Java code, you define them as key-value pairs in this file.
 
 
-`@value` tells Spring: 
+`@value` tells Spring: **Find a configuration value with this name and inject that value into this variable**
