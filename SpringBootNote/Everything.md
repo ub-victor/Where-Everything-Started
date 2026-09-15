@@ -119,3 +119,6 @@ it mean: **"Hey Spring, this class is a web controller. Manage it and use it to 
 | @Repository | This class handles database operations |
 | @Autowired | Ask Spring to provide a dependency |
 | @Entity | This class represents a database table |
+
+
+The `application.properties` file in Spring Boot is the central configuration file used to externalize application settings. Instead of hardcoding values like database URLs, port numbers, or credentials inside your Java code, you define them as key-value pairs in this file.
